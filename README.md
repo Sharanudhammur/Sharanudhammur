@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I am a MERN Stack Developer, bringing 3.9+ years in designing and constructing highly responsive user interfaces. I specialize in leveraging React.js to create dynamic and efficient user interfaces that engage users seamlessly. My proficiency extends to crafting backend systems using Node.js, MongoDB, and Express.js, where I prioritize scalability, security, and data integrity.
 
 
 ## 🔗 Links
