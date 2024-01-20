@@ -1,5 +1,6 @@
 
 # Hi, I'm Sharanabasappa! 👋
+![Banner](https://raw.githubusercontent.com/daniel-balico/daniel-balico/main/banner.png)<br/>
 
 
 ## 🚀 About Me
