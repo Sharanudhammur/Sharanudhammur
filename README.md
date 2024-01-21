@@ -1,6 +1,6 @@
 
 # Hi, I'm Sharanabasappa! 👋
-![Banner](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996124110?e=2147483647&v=beta&t=y0N9ZCC9USXV2Zpade_jpLirGBA_paYRscwd-vhhQ9Q)<br/>
+![Banner](https://markovate.com/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x-1280x720.png)<br/>
 
 
 ## 🚀 About Me
