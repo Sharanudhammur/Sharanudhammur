@@ -1,6 +1,6 @@
 
 # Hi, I'm Sharanabasappa! 👋
-![Banner](https://raw.githubusercontent.com/daniel-balico/daniel-balico/main/banner.png)<br/>
+![Banner](https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996124110?e=2147483647&v=beta&t=y0N9ZCC9USXV2Zpade_jpLirGBA_paYRscwd-vhhQ9Q)<br/>
 
 
 ## 🚀 About Me
