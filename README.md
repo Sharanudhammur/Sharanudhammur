@@ -22,3 +22,15 @@ const app = express();
 app.get('/api', (req, res) => res.send('Backend API using Node.js, Express.js'));
 
 app.listen(3000, () => console.log('Backend running on port 3000'));
+# Frontend Tech Stack
+- React.js
+- Redux
+- Material-UI
+- TailwindCSS
+
+# Backend Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JWT (Authentication)
+- WebSockets (Real-time communication)
