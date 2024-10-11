@@ -6,6 +6,20 @@ I am a **MERN Stack Developer** with over **3.9+ years** of experience designing
 
 ## 🔧 What I Do
 
+# Frontend Tech Stack
+- React.js
+- Redux
+- Material-UI
+- TailwindCSS
+
+# Backend Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- JWT (Authentication)
+- WebSockets (Real-time communication)
+
+
 ```js
 // Frontend Development
 function buildUI() {
