@@ -1,5 +1,5 @@
 
-# Hi, I'm Sharanabasappa!
+# Hey there!, I'm- Sharan
 ![Banner](https://media.licdn.com/dms/image/v2/D5616AQETcpjzM-La9g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728669388210?e=1734566400&v=beta&t=eaGICy5E7p3lLGjUrV7qu5Umx2l1r5NrzFXwJnaoWKg)<br/>
 
 
