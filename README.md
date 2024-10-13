@@ -1,6 +1,6 @@
 
 # Hi, I'm Sharanabasappa!
-![Banner]([https://markovate.com/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x-1280x720.png](https://media.licdn.com/dms/image/v2/D5616AQETcpjzM-La9g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728669388210?e=1734566400&v=beta&t=eaGICy5E7p3lLGjUrV7qu5Umx2l1r5NrzFXwJnaoWKg))<br/>
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQETcpjzM-La9g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728669388210?e=1734566400&v=beta&t=eaGICy5E7p3lLGjUrV7qu5Umx2l1r5NrzFXwJnaoWKg)<br/>
 
 
 ## 🚀 About Me
